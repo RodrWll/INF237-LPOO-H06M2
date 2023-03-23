@@ -1,4 +1,4 @@
-##Hola, aquí encontrarás las grabaciones de las clases!
+## Hola, aquí encontrarás las grabaciones de las clases!
 
 - Clase1 - **Introducción a la programación en C++** [ver grabación](https://pucp.zoom.us/rec/play/78ZWoR9XuxVSRhsKJvSitRBt6t6hzWj-NkAwEZqKiePvESwMfSoPSBbSYEbKCvKhT7VpL1MnJ91tjxz0.gQGP2vcteflNYOHT?continueMode=true)
 - Clase 2 - **Instrucciones de control y funciones**
