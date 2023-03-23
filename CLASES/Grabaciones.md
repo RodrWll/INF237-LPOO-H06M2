@@ -1,15 +1,15 @@
-Hola, aquí encontrarás las grabaciones de las clases!
+##Hola, aquí encontrarás las grabaciones de las clases!
 
-- Clase1 - [**Introducción a la programación en C++**] [ver grabación](https://pucp.zoom.us/rec/play/78ZWoR9XuxVSRhsKJvSitRBt6t6hzWj-NkAwEZqKiePvESwMfSoPSBbSYEbKCvKhT7VpL1MnJ91tjxz0.gQGP2vcteflNYOHT?continueMode=true)
-- Clase 2
-- Clase 3
-- Clase 4
-- Clase 5
-- Clase 6
-- Clase 7
-- Clase 8
-- Clase 9
-- Clase 10
-- Clase 11
-- Clase 12
-- Clase 13
+- Clase1 - **Introducción a la programación en C++** [ver grabación](https://pucp.zoom.us/rec/play/78ZWoR9XuxVSRhsKJvSitRBt6t6hzWj-NkAwEZqKiePvESwMfSoPSBbSYEbKCvKhT7VpL1MnJ91tjxz0.gQGP2vcteflNYOHT?continueMode=true)
+- Clase 2 - **Instrucciones de control y funciones**
+- Clase 3 - **Estructuras y algoritmos de resolución de problemas - Arreglos e introducción a la POO**
+- Clase 4 - **Conceptos básicos de programación orientada a objetos**
+- Clase 5 - **Programación orientada a objetos y diagrama de clases**
+- Clase 6 - **Interfaces gráficas - GUI**
+- Clase 7 - **Interfaces Gráficas – Transacciones, Combos Dinámicos, Archivos de texto y Archivos XML**
+- Clase 8 - **Transacciones, Serialización e Interfaces Gráficas – Gráficos en 2D**
+- Clase 9 - **Interfaces Gráficas – Gráficos en 2D, Aplicación tipo Paint**
+- Clase 10 - **Aplicaciones en base de datos – Introducción, CRUD, sentencias SQL**
+- Clase 11 - **Aplicaciones en base de datos – Transacciones**
+- Clase 12 - **Interfaces Gráficas – Threading, Timer**
+- Clase 13 - **Multithreading**
