@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\David\PUCP\2023-1\LPOO\Sesión01\NumerosPrimos\NumerosPrimos\main.cpp(11,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  NumerosPrimos.vcxproj -> C:\David\PUCP\2023-1\LPOO\Sesión01\NumerosPrimos\x64\Debug\NumerosPrimos.exe

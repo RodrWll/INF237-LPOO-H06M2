@@ -1,0 +1,3 @@
+﻿  MyFirstConsoleApplication.cpp
+D:\DRIVE\LPOO\INF237-H06M2\CLASES\Ejercicio-06M1-Sesion01\MyFirstSolution\MyFirstConsoleApplication\MyFirstConsoleApplication.cpp(16,10): warning C4101: 'var2': unreferenced local variable
+  MyFirstConsoleApplication.vcxproj -> D:\DRIVE\LPOO\INF237-H06M2\CLASES\Ejercicio-06M1-Sesion01\MyFirstSolution\x64\Debug\MyFirstConsoleProject.exe
