@@ -1,1 +1,1 @@
-### ***Lee la planificación de los labs***
+# ***Lean la planificación de los labs!!!***
