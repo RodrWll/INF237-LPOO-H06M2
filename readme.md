@@ -29,12 +29,10 @@ Dentro de la carpeta ***Manuales Rápidos*** hay información sobre cómo instal
 
 Dentro de la carpeta ***MATERIAL EXTRA*** subiré links que puedan ser últiles como algoritmos, tutoriales de GitHub, tutoriales de SQL, etc. 
 
-
-
-![logo pucp](logo.png)
-
 ## Derechos de autor &copy
 
-El contenido de este repositorio, como ppts, pdf, etc son de autoria de los profesores del curso.
-Este repositorio fue creado para alumnos de la Pontificia Universidad Catolica del Perú.
-Si deseas utilizar o compartir cualquier parte del contenido de este repositorio, debes obtener el permiso previo y por escrito del propietario de los derechos de autor.
+Este repositorio fue creado exclusivamente para los alumnos de la Pontificia Universidad Católica del Perú. Todos los contenidos incluidos en este repositorio, como presentaciones en PowerPoint, documentos PDF y otros materiales, son propiedad de los profesores del curso y están protegidos por derechos de autor.
+
+Si deseas utilizar o compartir cualquier parte del contenido de este repositorio, debes obtener previamente el permiso de los autores del material.
+
+![logo pucp](logo.png)
