@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\David\PUCP\2023-1\LPOO\Sesion02\CodigoDaVinci\CodigoDaVinci\main.cpp(7,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  CodigoDaVinci.vcxproj -> C:\David\PUCP\2023-1\LPOO\Sesion02\CodigoDaVinci\x64\Debug\CodigoDaVinci.exe

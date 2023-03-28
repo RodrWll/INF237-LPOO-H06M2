@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\David\PUCP\2023-1\LPOO\Sesion02\Los300Guerreros\Los300Guerreros\main.cpp(15,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\David\PUCP\2023-1\LPOO\Sesion02\Los300Guerreros\Los300Guerreros\main.cpp(20,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Los300Guerreros.vcxproj -> C:\David\PUCP\2023-1\LPOO\Sesion02\Los300Guerreros\x64\Debug\Los300Guerreros.exe
