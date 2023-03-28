@@ -21,7 +21,7 @@ Material reunido por el delegado del curso
 Dentro de la carpeta ***CLASES*** podrás encontrar los links de las grabaciones de las clases, los PPTs y ejercicios que desarrolle el profesor del curso.
 
 
-Dentro de la carpeta ***LABORATORIOS***hay información relevante acerca de comó se desarrollará cada sesión de lab.
+Dentro de la carpeta ***LABORATORIOS*** hay información relevante acerca de comó se desarrollará cada sesión de lab.
 
 
 Dentro de la carpeta ***Manuales Rápidos*** hay información sobre cómo instalar SQL, VisualStudio, usar VisualStudio con GitHub,etc
