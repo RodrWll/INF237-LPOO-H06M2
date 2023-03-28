@@ -31,7 +31,7 @@ Dentro de la carpeta ***MATERIAL EXTRA*** subiré links que puedan ser últiles 
 
 
 
-
+![logo pucp](logo.png)
 
 ## Derechos de autor &copy
 
