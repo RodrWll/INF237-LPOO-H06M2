@@ -28,3 +28,13 @@ Dentro de la carpeta ***Manuales Rápidos*** hay información sobre cómo instal
 
 
 Dentro de la carpeta ***MATERIAL EXTRA*** subiré links que puedan ser últiles como algoritmos, tutoriales de GitHub, tutoriales de SQL, etc. 
+
+
+
+
+
+## Derechos de autor &copy
+
+El contenido de este repositorio, como ppts, pdf, etc son de autoria de los profesores del curso.
+Este repositorio fue creado para alumnos de la Pontificia Universidad Catolica del Perú.
+Si deseas utilizar o compartir cualquier parte del contenido de este repositorio, debes obtener el permiso previo y por escrito del propietario de los derechos de autor.
