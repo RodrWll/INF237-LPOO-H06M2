@@ -1,0 +1,8 @@
+﻿  Alumno.cpp
+  DiaDictado.cpp
+  Horario.cpp
+  Profesor.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Alumno.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  SistemaMatriculaModel.vcxproj -> C:\David\PUCP\2023-1\LPOO\Sesion04\SistemaMatricula\x64\Debug\SistemaMatriculaModel.dll
