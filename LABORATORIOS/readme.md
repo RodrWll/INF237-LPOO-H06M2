@@ -1,28 +1,19 @@
 # ***Lean la planificación de los labs!!!***
-Durante esta sesión todos los miembros de los equipos y
-el JL asumen el rol de Product Owner (PO) de cada proyecto. Cada equipo
-deberá tener una reunión con su PO para aclarar cualquier duda sobre el
-proyecto a realizar, así como hacer una presentación con el avance de su
-Entregable 1 de Proyecto en lo referente a la solución que están proponiendo.
-En esta sesión, cada grupo debe presentar un preliminar o tentativo de la
-Visión del Proyecto o producto que espera desarrollar, un catálogo con las
-Historias de Usuario (User Stories), una Lista de Producto (Product Backlog)
-con Sprints de 2 semanas incluyendo las tareas por cada Sprint y la estimación
-de Historias de Usuario, así como el Diagrama de Clases que soportaría el
-diseño de la capa del modelo de su solución, de tal manera que el JL pueda
-orientarlos y absolver las dudas o consultas que tengan.
-En esta sesión, el JL, cómo PO, ayuda en la definición de la Visión del
-Proyecto, ayuda en la formulación de las Historias de Usuario explicando cada
-una de ellas y define los criterios de aceptación para cada Historia de Usuario,
-aprueba las Historias de Usuario y revisa la Lista de Tareas, ayuda en la
-categorización del orden de prioridad de los elementos de la Lista Priorizada
-del Product Backlog y ayuda al equipo a crear la Lista de Pendientes del Sprint
-(Sprint Backlog). Como parte de la dinámica de Scrum, las mejoras sugeridas
-por el PO deberán ser incorporadas al Product Backlog, el PO ayuda al equipo
-a crear la Lista de Pendientes del Sprint (Sprint Backlog). Las tareas del Sprint
-deben estar registradas en la plataforma de Trello.
-Recuerde que todo lo que presenta el equipo al JL debe subirse al PAIDEIA o
-Drive.
+1. Cada equipo debe tener una reunión con su Product Owner para aclarar cualquier duda sobre el proyecto a realizar.
+2. Cada equipo debe hacer una presentación con el avance de su Entregable 1 de Proyecto en lo referente a la solución que están proponiendo.
+3. Cada equipo debe presentar un preliminar o tentativo de la Visión del Proyecto o producto que espera desarrollar.
+4. Cada equipo debe presentar un catálogo con las Historias de Usuario (User Stories).
+5. Cada equipo debe presentar una Lista de Producto (Product Backlog) con Sprints de 2 semanas incluyendo las tareas por cada Sprint y la estimación de Historias de Usuario.
+6. Cada equipo debe presentar el Diagrama de Clases que soportaría el diseño de la capa del modelo de su solución.
+7. El JL, como PO, ayuda en la definición de la Visión del Proyecto.
+8. El JL, como PO, ayuda en la formulación de las Historias de Usuario explicando cada una de ellas y define los criterios de aceptación para cada Historia de Usuario.
+9. El JL, como PO, aprueba las Historias de Usuario y revisa la Lista de Tareas.
+10. El JL, como PO, ayuda en la categorización del orden de prioridad de los elementos de la Lista Priorizada del Product Backlog.
+11. El JL, como PO, ayuda al equipo a crear la Lista de Pendientes del Sprint (Sprint Backlog).
+12. Las mejoras sugeridas por el PO deberán ser incorporadas al Product Backlog.
+13. El PO ayuda al equipo a crear la Lista de Pendientes del Sprint (Sprint Backlog).
+14. Las tareas del Sprint deben estar registradas en la plataforma de Trello.
+15. Todo lo que presenta el equipo al JL debe subirse al PAIDEIA o Drive.
 -------------------------------------------------------------------------------
 Sesión Dirigida 3.- Durante esta sesión el JL asume el rol de Scrum Master
 (SM) de cada equipo de proyecto. Cada equipo deberá tener una reunión con
