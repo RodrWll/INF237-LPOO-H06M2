@@ -1,0 +1,15 @@
+C++
+Existen 2 tipos de Ventanas (Forms)
+	- Modales
+		Una ventana es modal, cuando la ventana no se puede regresar si es que
+		antes no se ha cerrado la actual.
+	- Amodales
+		Una ventana es amodal, cuando la ventana se puede regresar si es que
+		antes no se ha cerrado la actual.
+
+Existe otra clasificación para las ventanas (Forms)
+	- MDI
+		Una ventana es MDI, cuando esta ventana puede gestionar en su interior
+		a otras ventanas. Solo puede existir una ventana MDI por proyecto.
+	- No son MDI
+		Son las ventanas donde yo puedo abrir otras ventanas fuera de ella.

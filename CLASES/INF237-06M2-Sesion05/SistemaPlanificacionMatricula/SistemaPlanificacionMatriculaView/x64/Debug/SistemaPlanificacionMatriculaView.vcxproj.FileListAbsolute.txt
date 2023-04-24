@@ -1,0 +1,5 @@
+C:\David\PUCP\2023-1\LPOO\Sesion05\SistemaPlanificacionMatricula\SistemaPlanificacionMatriculaView\x64\Debug\SistemaPlanificacionMatriculaView.vcxproj.AssemblyReference.cache
+C:\David\PUCP\2023-1\LPOO\Sesion05\SistemaPlanificacionMatricula\SistemaPlanificacionMatriculaView\x64\Debug\SistemaPlanificacionMatriculaView.vcxproj.SuggestedBindingRedirects.cache
+C:\David\PUCP\2023-1\LPOO\Sesion05\SistemaPlanificacionMatricula\SistemaPlanificacionMatriculaView\x64\Debug\SistemaPlanificacionMatriculaView.frmPrincipal.resources
+C:\David\PUCP\2023-1\LPOO\Sesion05\SistemaPlanificacionMatricula\SistemaPlanificacionMatriculaView\x64\Debug\SistemaPlanificacionMatriculaView.vcxproj.GenerateResource.cache
+C:\David\PUCP\2023-1\LPOO\Sesion05\SistemaPlanificacionMatricula\SistemaPlanificacionMatriculaView\x64\Debug\SistemaPlanificacionMatriculaView.frmAperturaAnhoAcademico.resources
