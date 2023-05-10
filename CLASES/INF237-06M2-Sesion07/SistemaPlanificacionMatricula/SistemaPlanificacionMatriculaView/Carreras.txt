@@ -1,0 +1,4 @@
+1;Ingeniería Mecatrónica;01/01/2006
+3;Linguística;01/07/1999
+4;Ingeniería Industrial;8/05/2023
+5;Ingeniería Informática;8/05/2023

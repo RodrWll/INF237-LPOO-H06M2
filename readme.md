@@ -6,7 +6,7 @@ Material reunido por el delegado del curso
 
 ### Profesores del curso:
 +  ***Allasi Bardales, David Enrique*** dallasi@pucp.edu.pe
-+  ***Baldeon Medrano, Johan Paul***  ohan.baldeon@pucp.edu.pe
++  ***Baldeon Medrano, Johan Paul***  johan.baldeon@pucp.edu.pe
 
 ### JLs del Horario H06M2:
 + Chavez Castro, Manuel Hildebrando david.perezc@pucp.edu.pe

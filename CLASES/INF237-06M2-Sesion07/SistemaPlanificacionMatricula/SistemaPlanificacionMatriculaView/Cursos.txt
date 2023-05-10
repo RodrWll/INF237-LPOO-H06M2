@@ -1,0 +1,5 @@
+1;Lenguaje de Programacion Orientada a Objetos;INF237;4;1
+2;Algoritmia;INF263;3.75;5
+3;Proyecto de Tesis 1;INF391;2;5
+4;Analisis y Diseño de Sistemas;1IND61;3;4
+5;Dinamica;1MTR76;3.5;1
