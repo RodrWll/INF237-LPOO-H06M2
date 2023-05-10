@@ -1,39 +1,7 @@
 # ***Lean la planificación de los labs!!!***
-1. Cada equipo debe tener una reunión con su Product Owner para aclarar cualquier duda sobre el proyecto a realizar.
-2. Cada equipo debe hacer una presentación con el avance de su Entregable 1 de Proyecto en lo referente a la solución que están proponiendo.
-3. Cada equipo debe presentar un preliminar o tentativo de la Visión del Proyecto o producto que espera desarrollar.
-4. Cada equipo debe presentar un catálogo con las Historias de Usuario (User Stories).
-5. Cada equipo debe presentar una Lista de Producto (Product Backlog) con Sprints de 2 semanas incluyendo las tareas por cada Sprint y la estimación de Historias de Usuario.
-6. Cada equipo debe presentar el Diagrama de Clases que soportaría el diseño de la capa del modelo de su solución.
-7. El JL, como PO, ayuda en la definición de la Visión del Proyecto.
-8. El JL, como PO, ayuda en la formulación de las Historias de Usuario explicando cada una de ellas y define los criterios de aceptación para cada Historia de Usuario.
-9. El JL, como PO, aprueba las Historias de Usuario y revisa la Lista de Tareas.
-10. El JL, como PO, ayuda en la categorización del orden de prioridad de los elementos de la Lista Priorizada del Product Backlog.
-11. El JL, como PO, ayuda al equipo a crear la Lista de Pendientes del Sprint (Sprint Backlog).
-12. Las mejoras sugeridas por el PO deberán ser incorporadas al Product Backlog.
-13. El PO ayuda al equipo a crear la Lista de Pendientes del Sprint (Sprint Backlog).
-14. Las tareas del Sprint deben estar registradas en la plataforma de Trello.
-15. Todo lo que presenta el equipo al JL debe subirse al PAIDEIA o Drive.
--------------------------------------------------------------------------------
-Sesión Dirigida 3.- Durante esta sesión el JL asume el rol de Scrum Master
-(SM) de cada equipo de proyecto. Cada equipo deberá tener una reunión con
-su SM, quien ayuda al equipo en tratar de eliminar los impedimentos que
-encuentra el equipo para lograr avanzar con su desarrollo, es quien vela que
-se estén siguiendo los procesos de Scrum, es quien facilita las reuniones
-necesarias, ayuda a mediar conflictos y negociar, y también vela por el
-cumplimiento de las funciones de todos los roles y las reglas de Scrum. El SM
-verificará que estén realizando, en lo posible, sus reuniones diarias (Daily
-Scrum, Daily Meeting o Stand–Up Meeting). Cada equipo deberá hacer una
-presentación a su SM con el avance de su Entregable 2 de Proyecto para que
-le brinde sus apreciaciones. El avance consiste en la solución implementada
-bajo el patrón de arquitectura en capas, el diseño y programación de las
-interfaces gráficas de usuario (GUI) y el soporte para la persistencia de los
-datos utilizando archivos. Todo lo anterior debe estar debidamente registrado
-y actualizado en la plataforma de Trello. En el caso que en el equipo se
-presenten algunos impedimentos, estos deberán ser registrados en la lista de
-impedimentos por resolver (Impediment Backlog) que también estará en el
-Trello y será revisada por el SM quien les brindará ayuda. Finalmente, tratarán
-el cómo pueden mejorar lo acontecido durante el desarrollo del Sprint,
-también conocido como reunión de retrospectiva.
-Recuerde que todo lo que presenta el equipo al JL debe subirse al PAIDEIA o
-Drive.
+
+## Sesión Dirigida 4
+Durante esta sesión, el Jefe de Laboratorio (JL) asume el rol de Scrum Master (SM) de cada equipo de proyecto. El SM ayudará a los equipos a eliminar los impedimentos que encuentran en su desarrollo, asegurará que se sigan los procesos de Scrum, coordinará reuniones adicionales si son necesarias, mediará conflictos y revisará que se cumplan las reglas de Scrum. Además, verificará que los equipos realicen sus reuniones diarias y revisará el avance de cada equipo en su Entregable 3 de Proyecto. Los equipos presentarán su avance al SM, que les brindará sus apreciaciones. Los impedimentos deberán ser registrados en la lista de impedimentos por resolver en Trello, y el JL les brindará ayuda si es necesario. Todo lo presentado deberá subirse al PAIDEIA o Drive.
+
+## Pb4 - Sesión calificada 4
+Durante esta sesión, el JL asume el rol de Product Owner (PO) de cada proyecto. Cada equipo muestra su desarrollo para la presentación del Entregable 3 de Proyecto. El PO sugiere mejoras que deberán ser incorporadas al Product Backlog y actualiza la Lista Priorizada de Pendientes del Producto. Ayuda al equipo a crear la Lista de Pendientes del Sprint y acepta o rechaza los entregables. Los ítems del entregable son: un reporte breve del grado de participación de cada integrante del grupo en el desarrollo del Entregable 3 de Proyecto, así como el Trello actualizado con todas las tareas realizadas por cada miembro del equipo; el Product Backlog y Sprint Backlog actualizados; la solución implementada bajo el patrón de arquitectura en capas; las interfaces gráficas (GUI) implementadas; la persistencia de datos a través de archivos y la generación de gráficos en 2D y reportes. El entregable debe subirse al PAIDEIA o Drive.
