@@ -1,0 +1,4 @@
+C:\David\PUCP\2023-1\LPOO\Sesion06\SistemaPlanificacionMatricula\SistemaPlanificacionMatriculaModel\x64\Debug\SistemaPlanificacionMatriculaModel.vcxproj.AssemblyReference.cache
+C:\David\PUCP\2023-1\LPOO\Sesion07\SistemaPlanificacionMatricula\SistemaPlanificacionMatriculaModel\x64\Debug\SistemaPlanificacionMatriculaModel.vcxproj.AssemblyReference.cache
+C:\David\PUCP\2023-1\LPOO\Sesion08\SistemaPlanificacionMatricula\SistemaPlanificacionMatriculaModel\x64\Debug\SistemaPlanificacionMatriculaModel.vcxproj.AssemblyReference.cache
+D:\DRIVE\LPOO\INF237-H06M2\CLASES\INF237-06M2-Sesion08\SistemaPlanificacionMatricula\SistemaPlanificacionMatriculaModel\x64\Debug\SistemaPlanificacionMatriculaModel.vcxproj.AssemblyReference.cache

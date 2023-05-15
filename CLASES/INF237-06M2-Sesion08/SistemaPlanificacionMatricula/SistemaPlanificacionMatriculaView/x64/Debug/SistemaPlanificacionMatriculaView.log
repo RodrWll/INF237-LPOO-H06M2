@@ -1,0 +1,7 @@
+﻿  frmMantCurso.cpp
+  frmPrincipal.cpp
+  main.cpp
+D:\DRIVE\LPOO\INF237-H06M2\CLASES\INF237-06M2-Sesion08\SistemaPlanificacionMatricula\SistemaPlanificacionMatriculaView\main.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  frmAperturaAnhoAcademico.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SistemaPlanificacionMatriculaView.vcxproj -> D:\DRIVE\LPOO\INF237-H06M2\CLASES\INF237-06M2-Sesion08\SistemaPlanificacionMatricula\x64\Debug\SistemaPlanificacionMatriculaView.exe

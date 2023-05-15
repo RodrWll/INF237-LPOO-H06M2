@@ -1,0 +1,2 @@
+#include "frmNuevoCurso.h"
+

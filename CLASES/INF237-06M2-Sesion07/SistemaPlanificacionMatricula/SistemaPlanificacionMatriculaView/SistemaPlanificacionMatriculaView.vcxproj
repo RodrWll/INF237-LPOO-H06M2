@@ -122,15 +122,21 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="frmAperturaAnhoAcademico.cpp" />
+    <ClCompile Include="frmBuscarCarrera.cpp" />
     <ClCompile Include="frmEditarCarrera.cpp" />
     <ClCompile Include="frmMantCarrera.cpp" />
     <ClCompile Include="frmMantCurso.cpp" />
     <ClCompile Include="frmNuevaCarrera.cpp" />
+    <ClCompile Include="frmNuevoCurso.cpp" />
     <ClCompile Include="frmPrincipal.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MyForm.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="frmAperturaAnhoAcademico.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmBuscarCarrera.h">
       <FileType>CppForm</FileType>
     </ClInclude>
     <ClInclude Include="frmEditarCarrera.h">
@@ -145,13 +151,22 @@
     <ClInclude Include="frmNuevaCarrera.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="frmNuevoCurso.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
     <ClInclude Include="frmPrincipal.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="MyForm.h">
       <FileType>CppForm</FileType>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="frmAperturaAnhoAcademico.resx">
       <DependentUpon>frmAperturaAnhoAcademico.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarCarrera.resx">
+      <DependentUpon>frmBuscarCarrera.h</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmEditarCarrera.resx">
       <DependentUpon>frmEditarCarrera.h</DependentUpon>
@@ -164,6 +179,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmNuevaCarrera.resx">
       <DependentUpon>frmNuevaCarrera.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNuevoCurso.resx">
+      <DependentUpon>frmNuevoCurso.h</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmPrincipal.resx">
       <DependentUpon>frmPrincipal.h</DependentUpon>

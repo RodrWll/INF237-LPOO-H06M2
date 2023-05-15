@@ -1,0 +1,4 @@
+1;Lenguaje de Programacion Orientada a Objetos;INF237;4;1
+2;Algoritmia;INF263;3.75;5
+5;Dinamica;1MTR76;3.5;1
+6;Fundamentos de Programacion;1INF01;3;5

@@ -1,0 +1,30 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly SistemaPlanificacionMatriculaController, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly SistemaPlanificacionMatriculaModel, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class SistemaPlanificacionMatriculaController.CarreraController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    buscarTodas(): PrivateScope, Public, HideBySig
+    buscarCarreras(String): PrivateScope, Public, HideBySig
+    eliminarCarrera(Int32): PrivateScope, Public, HideBySig
+    escribirArchivo(List`1): PrivateScope, Public, HideBySig
+    existeCarrera(Int32): PrivateScope, Public, HideBySig
+    registrarCarrera(Int32, String, String): PrivateScope, Public, HideBySig
+    buscarCarrera(Int32): PrivateScope, Public, HideBySig
+    actualizarCarrera(Int32, String, String): PrivateScope, Public, HideBySig
+Class SistemaPlanificacionMatriculaController.CursoController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    buscarAll(): PrivateScope, Public, HideBySig
+    buscarxId(Int32): PrivateScope, Public, HideBySig
+    escribirArchivo(List`1): PrivateScope, Public, HideBySig
+    buscarCursoxCarrera(String): PrivateScope, Public, HideBySig
+    buscarCursoxNombrexCarrera(String, String): PrivateScope, Public, HideBySig
+    eliminarCurso(Int32): PrivateScope, Public, HideBySig
+    agregarCurso(Curso): PrivateScope, Public, HideBySig

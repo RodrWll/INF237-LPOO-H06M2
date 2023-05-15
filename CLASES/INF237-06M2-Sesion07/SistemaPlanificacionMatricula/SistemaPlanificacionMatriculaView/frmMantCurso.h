@@ -1,5 +1,5 @@
 #pragma once
-
+#include "frmNuevoCurso.h"
 namespace SistemaPlanificacionMatriculaView {
 
 	using namespace System;
@@ -93,6 +93,7 @@ namespace SistemaPlanificacionMatriculaView {
 			this->button4->TabIndex = 9;
 			this->button4->Text = L"Eliminar";
 			this->button4->UseVisualStyleBackColor = true;
+			this->button4->Click += gcnew System::EventHandler(this, &frmMantCurso::button4_Click);
 			// 
 			// button3
 			// 
@@ -111,6 +112,7 @@ namespace SistemaPlanificacionMatriculaView {
 			this->button2->TabIndex = 7;
 			this->button2->Text = L"Nuevo";
 			this->button2->UseVisualStyleBackColor = true;
+			this->button2->Click += gcnew System::EventHandler(this, &frmMantCurso::button2_Click);
 			// 
 			// groupBox2
 			// 
@@ -264,5 +266,17 @@ namespace SistemaPlanificacionMatriculaView {
 			this->dataGridView1->Rows->Add(filaGrilla);
 		}
 	}
+private: System::Void button4_Click(System::Object^ sender, System::EventArgs^ e) {
+	int filaSeleccionada = this->dataGridView1->SelectedRows[0]->Index;
+	int codigoCurso = Convert::ToInt32(this->dataGridView1->Rows[filaSeleccionada]->Cells[0]->Value);
+	CursoController^ objCursoController = gcnew CursoController();
+	objCursoController->eliminarCurso(codigoCurso);
+	MessageBox::Show("Curso eliminado correctamente");
+	this->button1->PerformClick();
+}
+private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
+	frmNuevoCurso^ ventanaNuevoCurso = gcnew frmNuevoCurso();
+	ventanaNuevoCurso->ShowDialog();
+}
 };
 }

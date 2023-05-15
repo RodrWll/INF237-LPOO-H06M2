@@ -1,0 +1,37 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly SistemaPlanificacionMatriculaModel, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class SistemaPlanificacionMatriculaModel.Carrera: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getCodigo(): PrivateScope, Public, HideBySig
+    setCodigo(Int32): PrivateScope, Public, HideBySig
+    getNombre(): PrivateScope, Public, HideBySig
+    setNombre(String): PrivateScope, Public, HideBySig
+    getFechaCreacion(): PrivateScope, Public, HideBySig
+    setFechaCreacion(String): PrivateScope, Public, HideBySig
+Class SistemaPlanificacionMatriculaModel.Curso: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, Double, SistemaPlanificacionMatriculaModel.Carrera): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getCodigo(): PrivateScope, Public, HideBySig
+    setCodigo(Int32): PrivateScope, Public, HideBySig
+    getNombre(): PrivateScope, Public, HideBySig
+    setNombre(String): PrivateScope, Public, HideBySig
+    getIdentificador(): PrivateScope, Public, HideBySig
+    setIdentificador(String): PrivateScope, Public, HideBySig
+    getCreditos(): PrivateScope, Public, HideBySig
+    setCreditos(Double): PrivateScope, Public, HideBySig
+    getCarrera(): PrivateScope, Public, HideBySig
+    setCarrera(Carrera): PrivateScope, Public, HideBySig
+Class SistemaPlanificacionMatriculaModel.SemestreAcademico: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32, System.String, System.String, System.String, System.Collections.Generic.List`1[SistemaPlanificacionMatriculaModel.Curso]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaPlanificacionMatriculaModel.AnhoAcademico: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32, System.String, System.String, System.String, System.Collections.Generic.List`1[SistemaPlanificacionMatriculaModel.SemestreAcademico]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
